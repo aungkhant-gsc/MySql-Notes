@@ -12,5 +12,6 @@
 
 ## 2nd way is changing in MySql config file
 ```` sudo nano /etc/mysql/my.conf````
+add these 2 line
 ```` [mysqld]````
 ````  default-time-zone = "+06:30"````
